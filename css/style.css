@@ -380,7 +380,7 @@ figure a {
    }
    
    .fundraise{
-      height: 85vh;
+      height: 80vh;
    }
   .para2{
    font-size: 15px;
@@ -399,8 +399,8 @@ figure a {
    height: 75vh;
  }
  .about, .help, .event, .contact{
-   margin-right: 6%;
-   margin-left: 6%;
+   margin-right: 6.5%
+   margin-left: 6.5%;
    
 }
 .medias{
