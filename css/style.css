@@ -362,16 +362,19 @@ figure a {
       padding: 85px 25px;
      
       
-      margin-top: 13%;
-      margin-left: 1%;
+      margin-top: 17%;
+      margin-left: 0.5%;
       
    }
    .button1, .button2, .button3, .button4 {
       
-      padding: 4.1% 6%;
+      padding: 3.9% 6%;
      
       
    }
+    
+    
+        
    .community{
       height: 25vh;
    }
@@ -381,7 +384,7 @@ figure a {
    
    
   .para2{
-   font-size: 15px;
+   font-size: 11px;
   }
   .button{
    font-size: 13px;
