@@ -354,37 +354,26 @@ figure a {
 }
 @media screen and (max-width:1400px){
    
+    .nav li a{
+      padding-right: 25px;
+      font-size: 20px;
+      
+   }
   
-   .background{
-      height: 95vh;
-   }
    .donatebox{
-      padding: 85px 25px;
-     
-      
-      margin-top: 17%;
-      margin-left: 0.5%;
-      
-   }
-   .button1, .button2, .button3, .button4 {
-      
-      padding: 3.9% 6%;
-     
-      
-   }
-    
-    
-        
-   .community{
-      height: 25vh;
-   }
-   .service{
-      height: 75vh;
+      padding: 90px 30px;
    }
    
    
+   .handpic img{
+      padding-top: 20%;
+      height: 50vh;
+   }
+   .fundraise{
+      height: auto;
+   }
   .para2{
-   font-size: 11px;
+   font-size: 15px;
   }
   .button{
    font-size: 13px;
@@ -395,18 +384,25 @@ figure a {
   .para3 p{
    font-size: 14px;
   }
- 
- .otherinfo{
-   height: 80vh;
+  .service img{
+   height: auto;
+  
+  }
+ .subscribe{
+   height: auto;
  }
- 
-.medias{
+  .subscribe h1{
+   font-size: 20px;
+  }
+  .subscribe input{
+   padding: 20px 50px;
+   height: 40%;
+   font-size: 18px;
    
-   
-   margin-top: 1%;
 }
-   
 }
+
+  
 @media screen and (max-width:1024px){
    .nav li a{
       padding-right: 25px;
