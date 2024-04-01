@@ -362,8 +362,8 @@ figure a {
       padding: 85px 25px;
      
       
-      margin-top: 22%;
-      margin-left: 7%;
+      margin-top: 19%;
+      margin-left: 4.5%;
       
    }
    .service{
@@ -371,7 +371,7 @@ figure a {
    }
    
    .fundraise{
-      height: auto;
+      height: 85vh;
    }
   .para2{
    font-size: 15px;
@@ -387,12 +387,17 @@ figure a {
   }
  
  .otherinfo{
-   height: 70vh;
+   height: 75vh;
  }
  .about, .help, .event, .contact{
    margin-right: 4.5%;
    margin-left: 4.5%;
    
+}
+.medias{
+   
+   
+   margin-top: 2%;
 }
    
 }
