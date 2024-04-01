@@ -352,6 +352,52 @@ figure a {
    padding-top: 10px;
    text-align: center;
 }
+.nav li a{
+      padding-right: 25px;
+      font-size: 20px;
+      
+   }
+  
+   .donatebox{
+      padding: 90px 30px;
+   }
+   
+   
+   .handpic img{
+      padding-top: 20%;
+      height: 50vh;
+   }
+   .fundraise{
+      height: auto;
+   }
+  .para2{
+   font-size: 15px;
+  }
+  .button{
+   font-size: 13px;
+  }
+  .para{
+   font-size: 14px;
+  }
+  .para3 p{
+   font-size: 14px;
+  }
+  .service img{
+   height: auto;
+  
+  }
+ .subscribe{
+   height: auto;
+ }
+  .subscribe h1{
+   font-size: 20px;
+  }
+  .subscribe input{
+   padding: 20px 50px;
+   height: 40%;
+   font-size: 18px;
+   
+}
 @media screen and (max-width:1024px){
    .nav li a{
       padding-right: 25px;
