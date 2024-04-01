@@ -352,21 +352,16 @@ figure a {
    padding-top: 10px;
    text-align: center;
 }
-.nav li a{
-      padding-right: 25px;
-      font-size: 20px;
-      
-   }
+@media screen and (max-width:1400px){
+   
   
-   .donatebox{
-      padding: 90px 30px;
+   .background{
+      height: auto;
+   }
+   .service{
+      height: auto;
    }
    
-   
-   .handpic img{
-      padding-top: 20%;
-      height: 50vh;
-   }
    .fundraise{
       height: auto;
    }
@@ -382,20 +377,9 @@ figure a {
   .para3 p{
    font-size: 14px;
   }
-  .service img{
-   height: auto;
+ 
+ 
   
-  }
- .subscribe{
-   height: auto;
- }
-  .subscribe h1{
-   font-size: 20px;
-  }
-  .subscribe input{
-   padding: 20px 50px;
-   height: 40%;
-   font-size: 18px;
    
 }
 @media screen and (max-width:1024px){
