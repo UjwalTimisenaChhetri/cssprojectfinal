@@ -356,10 +356,18 @@ figure a {
    
   
    .background{
-      height: auto;
+      height: 95vh;
+   }
+   .donatebox{
+      padding: 85px 25px;
+     
+      
+      margin-top: 22%;
+      margin-left: 7%;
+      
    }
    .service{
-      height: auto;
+      height: 75vh;
    }
    
    .fundraise{
@@ -377,6 +385,17 @@ figure a {
   .para3 p{
    font-size: 14px;
   }
+ 
+ .otherinfo{
+   height: 70vh;
+ }
+ .about, .help, .event, .contact{
+   margin-right: 4.5%;
+   margin-left: 4.5%;
+   
+}
+   
+}
  
  
   
